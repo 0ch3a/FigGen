@@ -13,6 +13,7 @@ FigGen is specially Designed for Termux users. This tool is very helpfull for ma
     |/       \_______/(_______)(_______)(_______/|/    )_)
           
 ```
+# [Installation]
 ```
 $ pkg update upgrade
 $ pkg install python2
@@ -21,11 +22,11 @@ $ cd FigGen
 ```
 # [Setup]
 ```
-python2 install.py
+$ python2 install.py
 ```
 # [Running]
 ```
-python2 FigGen.py
+$ python2 FigGen.py
 ```
 # [Screenshot]
 ![FigGen](https://user-images.githubusercontent.com/55625917/65965607-7bce0180-e491-11e9-8900-0a883aeca226.png)
